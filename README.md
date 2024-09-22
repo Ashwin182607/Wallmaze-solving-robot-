@@ -17,7 +17,7 @@ This project involves a line-following robot designed to navigate a maze using u
 4. Upload the code (`src/maze-robot.ino`) to the Arduino.
 
 ## How It Works
-The robot uses an ultrasonic sensor to detect walls. It follows a basic rule: move forward if there's space, or turn right if it's too close to a wall.
+The robot uses an ultrasonic sensor to detect line and objects. It follows a basic rule: move forward if there's space, or turn right if it's too close to a wall.
 
 ## License
 MIT License
